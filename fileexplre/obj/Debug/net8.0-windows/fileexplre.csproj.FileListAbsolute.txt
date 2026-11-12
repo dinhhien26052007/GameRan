@@ -1,0 +1,16 @@
+F:\IT008\fileexplre\bin\Debug\net8.0-windows\fileexplre.exe
+F:\IT008\fileexplre\bin\Debug\net8.0-windows\fileexplre.deps.json
+F:\IT008\fileexplre\bin\Debug\net8.0-windows\fileexplre.runtimeconfig.json
+F:\IT008\fileexplre\bin\Debug\net8.0-windows\fileexplre.dll
+F:\IT008\fileexplre\bin\Debug\net8.0-windows\fileexplre.pdb
+F:\IT008\fileexplre\obj\Debug\net8.0-windows\fileexplre.Form1.resources
+F:\IT008\fileexplre\obj\Debug\net8.0-windows\fileexplre.csproj.GenerateResource.cache
+F:\IT008\fileexplre\obj\Debug\net8.0-windows\fileexplre.GeneratedMSBuildEditorConfig.editorconfig
+F:\IT008\fileexplre\obj\Debug\net8.0-windows\fileexplre.AssemblyInfoInputs.cache
+F:\IT008\fileexplre\obj\Debug\net8.0-windows\fileexplre.AssemblyInfo.cs
+F:\IT008\fileexplre\obj\Debug\net8.0-windows\fileexplre.csproj.CoreCompileInputs.cache
+F:\IT008\fileexplre\obj\Debug\net8.0-windows\fileexplre.dll
+F:\IT008\fileexplre\obj\Debug\net8.0-windows\refint\fileexplre.dll
+F:\IT008\fileexplre\obj\Debug\net8.0-windows\fileexplre.pdb
+F:\IT008\fileexplre\obj\Debug\net8.0-windows\fileexplre.genruntimeconfig.cache
+F:\IT008\fileexplre\obj\Debug\net8.0-windows\ref\fileexplre.dll
